@@ -1,6 +1,5 @@
-package com.example.designpatternpractice
+package com.example.designpatternpractice.builder
 
-import com.example.designpatternpractice.builder.Client
 import org.junit.Test
 
 class BuilderTest {
