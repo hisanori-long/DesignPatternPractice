@@ -1,4 +1,4 @@
-package chainOfResponsibility
+package com.example.designpatternpractice.chainOfResponsibility
 
 import com.example.designpatternpractice.chainOfResponsibility.DoorStateError
 import com.example.designpatternpractice.chainOfResponsibility.FinalErrorHandler
