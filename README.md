@@ -21,8 +21,11 @@ Kotlinで実装したGoFデザインパターンの練習リポジトリです�
 | 振る舞い | Visitor |
 | 振る舞い | Chain of Responsibility |
 | 振る舞い | Mediator |
+| 振る舞い | Observer |
 | 振る舞い | Memento |
+| 振る舞い | State |
 | 構造 | Facade |
+| 構造 | Flyweight |
 
 ## 技術スタック
 
