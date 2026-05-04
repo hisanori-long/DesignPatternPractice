@@ -27,6 +27,7 @@ Kotlinで実装したGoFデザインパターンの練習リポジトリです�
 | 構造 | Facade |
 | 構造 | Flyweight |
 | 構造 | Proxy |
+| 振る舞い | Command |
 
 ## 技術スタック
 
